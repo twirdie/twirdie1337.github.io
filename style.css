@@ -86,3 +86,5 @@ button {
 #faixa {
   text-overflow: ellipsis;
 }
+<style>.heart{color:#e25555;}</style>
+Made with <span class="heart">♥</span> in Switzerland
