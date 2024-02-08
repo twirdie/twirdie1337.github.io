@@ -37,7 +37,7 @@ function faixaAnterior() {
       faixa -= 1;
     }
     audio.src = "music/vultures/" + faixa + ".mp3";
-    nomeFaixa.innerText = "Faixa " + faixa;
+    nomeFaixa.innerText = "Track " + faixa;
     tocarFaixa();
   }
 
@@ -48,7 +48,7 @@ function faixaAnterior() {
       faixa = 1;
     }
     audio.src = "music/vultures/" + faixa + ".mp3";
-    nomeFaixa.innerText = "Faixa " + faixa;
+    nomeFaixa.innerText = "Track " + faixa;
     tocarFaixa();
   }
 
